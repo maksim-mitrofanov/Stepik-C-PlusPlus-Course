@@ -6,7 +6,17 @@
 //
 
 #include "base 2 log.hpp"
+#include <iostream>
+using namespace std;
 
 int integerLogarithmBase2(int value) {
-    return 0;
+    int argument = value;
+    int times = 0;
+    
+    while (argument > 1) {
+        times += 1;
+        argument /= 2;
+    }
+    
+    return times;
 }
