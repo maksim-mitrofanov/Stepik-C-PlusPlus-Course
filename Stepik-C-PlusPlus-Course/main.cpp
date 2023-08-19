@@ -6,9 +6,19 @@
 //
 
 #include <iostream>
+#include "real root calculation.hpp"
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int value1;
+    int value2;
+    int value3;
+    
+    while (true) {
+        cout << "Enter a, b & c" << endl;
+        cin >> value1 >> value2 >> value3;
+        roots(value1, value2, value3);
+    }
+    
     return 0;
 }

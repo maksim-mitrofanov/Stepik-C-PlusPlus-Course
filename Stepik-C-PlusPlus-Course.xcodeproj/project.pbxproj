@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C0FB6522A90B8C9003E6827 /* real root calculation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C0FB6502A90B8C9003E6827 /* real root calculation.cpp */; };
 		4CB902932A8FDB38009A8409 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902922A8FDB38009A8409 /* main.cpp */; };
+		4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902992A8FE0D7009A8409 /* check-func.cpp */; };
+		4CB9029E2A8FE23F009A8409 /* power.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB9029C2A8FE23F009A8409 /* power.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +26,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C0FB6502A90B8C9003E6827 /* real root calculation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "real root calculation.cpp"; sourceTree = "<group>"; };
+		4C0FB6512A90B8C9003E6827 /* real root calculation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "real root calculation.hpp"; sourceTree = "<group>"; };
 		4CB9028F2A8FDB38009A8409 /* Stepik-C-PlusPlus-Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Stepik-C-PlusPlus-Course"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CB902922A8FDB38009A8409 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4CB902992A8FE0D7009A8409 /* check-func.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "check-func.cpp"; sourceTree = "<group>"; };
+		4CB9029A2A8FE0D7009A8409 /* check-func.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "check-func.hpp"; sourceTree = "<group>"; };
+		4CB9029C2A8FE23F009A8409 /* power.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = power.cpp; sourceTree = "<group>"; };
+		4CB9029D2A8FE23F009A8409 /* power.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = power.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +47,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4C0FB64F2A90B8B2003E6827 /* Roots */ = {
+			isa = PBXGroup;
+			children = (
+				4C0FB6502A90B8C9003E6827 /* real root calculation.cpp */,
+				4C0FB6512A90B8C9003E6827 /* real root calculation.hpp */,
+			);
+			path = Roots;
+			sourceTree = "<group>";
+		};
 		4CB902862A8FDB38009A8409 = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +76,29 @@
 			isa = PBXGroup;
 			children = (
 				4CB902922A8FDB38009A8409 /* main.cpp */,
+				4C0FB64F2A90B8B2003E6827 /* Roots */,
+				4CB902A02A8FE2D5009A8409 /* Check */,
+				4CB9029F2A8FE2C8009A8409 /* Power */,
 			);
 			path = "Stepik-C-PlusPlus-Course";
+			sourceTree = "<group>";
+		};
+		4CB9029F2A8FE2C8009A8409 /* Power */ = {
+			isa = PBXGroup;
+			children = (
+				4CB9029C2A8FE23F009A8409 /* power.cpp */,
+				4CB9029D2A8FE23F009A8409 /* power.hpp */,
+			);
+			path = Power;
+			sourceTree = "<group>";
+		};
+		4CB902A02A8FE2D5009A8409 /* Check */ = {
+			isa = PBXGroup;
+			children = (
+				4CB902992A8FE0D7009A8409 /* check-func.cpp */,
+				4CB9029A2A8FE0D7009A8409 /* check-func.hpp */,
+			);
+			path = Check;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +158,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C0FB6522A90B8C9003E6827 /* real root calculation.cpp in Sources */,
+				4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */,
 				4CB902932A8FDB38009A8409 /* main.cpp in Sources */,
+				4CB9029E2A8FE23F009A8409 /* power.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
