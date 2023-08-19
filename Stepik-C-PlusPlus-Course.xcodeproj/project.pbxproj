@@ -47,13 +47,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4C0FB64F2A90B8B2003E6827 /* Roots */ = {
+		4C0FB64F2A90B8B2003E6827 /* Real Root Calculation */ = {
 			isa = PBXGroup;
 			children = (
 				4C0FB6502A90B8C9003E6827 /* real root calculation.cpp */,
 				4C0FB6512A90B8C9003E6827 /* real root calculation.hpp */,
 			);
-			path = Roots;
+			path = "Real Root Calculation";
 			sourceTree = "<group>";
 		};
 		4CB902862A8FDB38009A8409 = {
@@ -76,7 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				4CB902922A8FDB38009A8409 /* main.cpp */,
-				4C0FB64F2A90B8B2003E6827 /* Roots */,
+				4C0FB64F2A90B8B2003E6827 /* Real Root Calculation */,
 				4CB902A02A8FE2D5009A8409 /* Check */,
 				4CB9029F2A8FE2C8009A8409 /* Power */,
 			);

@@ -10,9 +10,9 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int value1;
-    int value2;
-    int value3;
+    double value1;
+    double value2;
+    double value3;
     
     while (true) {
         cout << "Enter a, b & c" << endl;
