@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4C0FB6522A90B8C9003E6827 /* real root calculation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C0FB6502A90B8C9003E6827 /* real root calculation.cpp */; };
 		4C0FB65A2A90CA64003E6827 /* removing extra whitespaces.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C0FB6582A90CA64003E6827 /* removing extra whitespaces.cpp */; };
+		4C0FB65E2A90CAE7003E6827 /* base 2 log.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C0FB65C2A90CAE7003E6827 /* base 2 log.cpp */; };
 		4CB902932A8FDB38009A8409 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902922A8FDB38009A8409 /* main.cpp */; };
 		4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902992A8FE0D7009A8409 /* check-func.cpp */; };
 		4CB9029E2A8FE23F009A8409 /* power.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB9029C2A8FE23F009A8409 /* power.cpp */; };
@@ -31,6 +32,8 @@
 		4C0FB6512A90B8C9003E6827 /* real root calculation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "real root calculation.hpp"; sourceTree = "<group>"; };
 		4C0FB6582A90CA64003E6827 /* removing extra whitespaces.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "removing extra whitespaces.cpp"; sourceTree = "<group>"; };
 		4C0FB6592A90CA64003E6827 /* removing extra whitespaces.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "removing extra whitespaces.hpp"; sourceTree = "<group>"; };
+		4C0FB65C2A90CAE7003E6827 /* base 2 log.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "base 2 log.cpp"; sourceTree = "<group>"; };
+		4C0FB65D2A90CAE7003E6827 /* base 2 log.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "base 2 log.hpp"; sourceTree = "<group>"; };
 		4CB9028F2A8FDB38009A8409 /* Stepik-C-PlusPlus-Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Stepik-C-PlusPlus-Course"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CB902922A8FDB38009A8409 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		4CB902992A8FE0D7009A8409 /* check-func.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "check-func.cpp"; sourceTree = "<group>"; };
@@ -68,6 +71,15 @@
 			path = "Extra Whitespspaces";
 			sourceTree = "<group>";
 		};
+		4C0FB65B2A90CAD9003E6827 /* Base 2 Log */ = {
+			isa = PBXGroup;
+			children = (
+				4C0FB65C2A90CAE7003E6827 /* base 2 log.cpp */,
+				4C0FB65D2A90CAE7003E6827 /* base 2 log.hpp */,
+			);
+			path = "Base 2 Log";
+			sourceTree = "<group>";
+		};
 		4CB902862A8FDB38009A8409 = {
 			isa = PBXGroup;
 			children = (
@@ -88,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				4CB902922A8FDB38009A8409 /* main.cpp */,
+				4C0FB65B2A90CAD9003E6827 /* Base 2 Log */,
 				4C0FB6572A90CA49003E6827 /* Extra Whitespspaces */,
 				4C0FB64F2A90B8B2003E6827 /* Real Root Calculation */,
 				4CB902A02A8FE2D5009A8409 /* Check */,
@@ -175,6 +188,7 @@
 				4C0FB6522A90B8C9003E6827 /* real root calculation.cpp in Sources */,
 				4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */,
 				4CB902932A8FDB38009A8409 /* main.cpp in Sources */,
+				4C0FB65E2A90CAE7003E6827 /* base 2 log.cpp in Sources */,
 				4CB9029E2A8FE23F009A8409 /* power.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
