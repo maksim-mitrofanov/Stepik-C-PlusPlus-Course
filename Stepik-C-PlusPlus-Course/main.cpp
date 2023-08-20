@@ -6,19 +6,17 @@
 //
 
 #include <iostream>
-#include "base 2 log.hpp"
-using namespace std;
+
+void reverted() {
+    int value = 0;
+    std::cin >> value;
+    
+    if (value == 0) { return; }
+    else { reverted(); }
+    std::cout << value << " ";
+}
 
 int main(int argc, const char * argv[]) {
-    int argument = 0;
-    cin >> argument;
-    cout << "Calculating result for: " << argument << endl;
-    
-    int result = integerLogarithmBase2(argument);
-    
-    cout << "Result for " << argument;
-    cout << " is: " << result << endl;
-
-        
+    reverted();
     return 0;
 }
