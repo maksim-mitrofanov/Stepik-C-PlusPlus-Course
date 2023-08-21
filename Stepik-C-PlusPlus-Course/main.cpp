@@ -6,17 +6,21 @@
 //
 
 #include <iostream>
-
-void reverted() {
-    int value = 0;
-    std::cin >> value;
-    
-    if (value == 0) { return; }
-    else { reverted(); }
-    std::cout << value << " ";
-}
+#include "swap arguments.hpp"
 
 int main(int argc, const char * argv[]) {
-    reverted();
+    int value1 = 30;
+    int value2 = 100;
+    
+    std::cout << "Current values: ";
+    std::cout << "a: " << value1;
+    std::cout << " b: " << value2 << std::endl;
+    
+    swapArguments(&value1, &value2);
+    
+    std::cout << "After swap: ";
+    std::cout << "a: " << value1;
+    std::cout << " b: " << value2 << std::endl;
+    
     return 0;
 }
