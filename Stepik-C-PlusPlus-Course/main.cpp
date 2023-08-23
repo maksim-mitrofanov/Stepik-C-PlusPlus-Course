@@ -7,16 +7,23 @@
 
 #include <iostream>
 #include <iomanip>
-#include "maximum value in array pointer.hpp"
+#include "maximum value pointer with bool.hpp"
 
 using namespace std;
 
 int main(int argc, const char * argv[]) {
     
     int array[] = {10, 20, 319, 42, 5, 6};
-    int * resultPointer = maximumValuePointer(&array[0], &array[6]);
+    int result = 0;
     
-    cout << *resultPointer << endl;
+    bool didFindMaxValue = maxValuePointer(array, array + 6, &result);
     
+    if (didFindMaxValue) {
+        cout << "Has found result" << endl;
+        cout << "Max value: " << result << endl;
+    } else {
+        cout << "Coudn't find result" << endl;
+    }
+        
     return 0;
 }
