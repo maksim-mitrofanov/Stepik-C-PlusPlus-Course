@@ -176,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>16B1DFC5-FDED-4E30-B6EA-30C0EFE3E2EE</string>
 		</dict>
+		<key>1B46EBF1-07BC-49E2-A466-E6A67A036EC6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B46EBF1-07BC-49E2-A466-E6A67A036EC6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497389.56740999</real>
+			<key>timeStoppedRecording</key>
+			<real>714497390.359828</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>1B46EBF1-07BC-49E2-A466-E6A67A036EC6</string>
+		</dict>
 		<key>1B95D6C0-2176-4EC5-B5E0-F4938E5877AE</key>
 		<dict>
 			<key>className</key>
@@ -311,6 +345,40 @@
 			<string>Build Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>20EC89D9-231D-40B4-A029-0AF210348068</string>
+		</dict>
+		<key>230F49FB-D27B-4241-B492-BE2B66EF0597</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>230F49FB-D27B-4241-B492-BE2B66EF0597.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497025.40949297</real>
+			<key>timeStoppedRecording</key>
+			<real>714497025.97985196</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>230F49FB-D27B-4241-B492-BE2B66EF0597</string>
 		</dict>
 		<key>2350387D-E998-4D19-8386-3FCA4840136B</key>
 		<dict>
@@ -652,6 +720,40 @@
 			<key>uniqueIdentifier</key>
 			<string>521F76B3-814D-44F8-B805-AD3D152DBC1C</string>
 		</dict>
+		<key>52418EE8-6DDD-42FE-837D-2DCF53417176</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52418EE8-6DDD-42FE-837D-2DCF53417176.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497541.03115499</real>
+			<key>timeStoppedRecording</key>
+			<real>714497541.97874701</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>52418EE8-6DDD-42FE-837D-2DCF53417176</string>
+		</dict>
 		<key>55BC5A68-5794-4DAC-822A-F42D7B855414</key>
 		<dict>
 			<key>className</key>
@@ -923,6 +1025,40 @@
 			<string>Build Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>64CEB083-986C-4EC6-8E47-D641234E786A</string>
+		</dict>
+		<key>691247C8-5E8C-49BF-B9F4-C6E61562CCDA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>691247C8-5E8C-49BF-B9F4-C6E61562CCDA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497503.39904404</real>
+			<key>timeStoppedRecording</key>
+			<real>714497504.02576303</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>691247C8-5E8C-49BF-B9F4-C6E61562CCDA</string>
 		</dict>
 		<key>6C79B4D5-9A7D-4340-ABC6-5540FAC06688</key>
 		<dict>
@@ -1297,6 +1433,40 @@
 			<string>Build Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>87473660-0356-4AB6-BE7C-D1446817ACA1</string>
+		</dict>
+		<key>88F225CC-C97C-4168-AB0F-4AE0B49818A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88F225CC-C97C-4168-AB0F-4AE0B49818A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497035.70909798</real>
+			<key>timeStoppedRecording</key>
+			<real>714497036.40643001</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>88F225CC-C97C-4168-AB0F-4AE0B49818A1</string>
 		</dict>
 		<key>8D30B07E-CE12-4824-9D39-E6AAEB28C990</key>
 		<dict>
@@ -1876,6 +2046,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C59C708C-CEE7-4474-BAAB-A34BA708AAB9</string>
 		</dict>
+		<key>CB66CD16-71F0-443D-A598-6FB5B6E2F015</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB66CD16-71F0-443D-A598-6FB5B6E2F015.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497480.64943194</real>
+			<key>timeStoppedRecording</key>
+			<real>714497481.171826</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>CB66CD16-71F0-443D-A598-6FB5B6E2F015</string>
+		</dict>
 		<key>D5706CE7-A103-4D86-92F7-C3E85D67405D</key>
 		<dict>
 			<key>className</key>
@@ -2249,6 +2453,40 @@
 			<string>Build Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>FA3271BB-3D30-454F-AE9B-171C7CA1139B</string>
+		</dict>
+		<key>FE6A6C7A-DBD6-4A00-BE6D-B4C986DF2953</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE6A6C7A-DBD6-4A00-BE6D-B4C986DF2953.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714497505.63563001</real>
+			<key>timeStoppedRecording</key>
+			<real>714497505.69209802</real>
+			<key>title</key>
+			<string>Build Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>FE6A6C7A-DBD6-4A00-BE6D-B4C986DF2953</string>
 		</dict>
 	</dict>
 </dict>
