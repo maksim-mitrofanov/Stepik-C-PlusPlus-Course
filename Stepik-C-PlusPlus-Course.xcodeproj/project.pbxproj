@@ -14,6 +14,7 @@
 		4C868F7A2A96539F0041E4EE /* maximum value in array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C868F782A96539F0041E4EE /* maximum value in array.cpp */; };
 		4C868F7E2A9655810041E4EE /* maximum value in array pointer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C868F7C2A9655810041E4EE /* maximum value in array pointer.cpp */; };
 		4C868F832A9657A80041E4EE /* maximum value pointer with bool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C868F812A9657A80041E4EE /* maximum value pointer with bool.cpp */; };
+		4C868F872A965E960041E4EE /* strings and characters manipulation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C868F852A965E960041E4EE /* strings and characters manipulation.cpp */; };
 		4CB67DCB2A94F7480027F71E /* move array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB67DC92A94F7480027F71E /* move array.cpp */; };
 		4CB902932A8FDB38009A8409 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902922A8FDB38009A8409 /* main.cpp */; };
 		4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902992A8FE0D7009A8409 /* check-func.cpp */; };
@@ -49,6 +50,8 @@
 		4C868F7D2A9655810041E4EE /* maximum value in array pointer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "maximum value in array pointer.hpp"; sourceTree = "<group>"; };
 		4C868F812A9657A80041E4EE /* maximum value pointer with bool.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "maximum value pointer with bool.cpp"; sourceTree = "<group>"; };
 		4C868F822A9657A80041E4EE /* maximum value pointer with bool.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "maximum value pointer with bool.hpp"; sourceTree = "<group>"; };
+		4C868F852A965E960041E4EE /* strings and characters manipulation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "strings and characters manipulation.cpp"; sourceTree = "<group>"; };
+		4C868F862A965E960041E4EE /* strings and characters manipulation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "strings and characters manipulation.hpp"; sourceTree = "<group>"; };
 		4CB67DC92A94F7480027F71E /* move array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "move array.cpp"; sourceTree = "<group>"; };
 		4CB67DCA2A94F7480027F71E /* move array.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "move array.hpp"; sourceTree = "<group>"; };
 		4CB9028F2A8FDB38009A8409 /* Stepik-C-PlusPlus-Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Stepik-C-PlusPlus-Course"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -191,6 +194,8 @@
 			isa = PBXGroup;
 			children = (
 				4CB902922A8FDB38009A8409 /* main.cpp */,
+				4C868F852A965E960041E4EE /* strings and characters manipulation.cpp */,
+				4C868F862A965E960041E4EE /* strings and characters manipulation.hpp */,
 				4C868F802A96576E0041E4EE /* Array files */,
 				4C868F7F2A9657300041E4EE /* Math files */,
 				4C0FB6572A90CA49003E6827 /* Extra Whitespspaces */,
@@ -303,6 +308,7 @@
 				4CB902932A8FDB38009A8409 /* main.cpp in Sources */,
 				4C0FB65E2A90CAE7003E6827 /* base 2 log.cpp in Sources */,
 				4C868F832A9657A80041E4EE /* maximum value pointer with bool.cpp in Sources */,
+				4C868F872A965E960041E4EE /* strings and characters manipulation.cpp in Sources */,
 				4CB9029E2A8FE23F009A8409 /* power.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

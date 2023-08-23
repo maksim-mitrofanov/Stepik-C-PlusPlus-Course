@@ -6,20 +6,17 @@
 //
 
 #include <iostream>
-#include <iomanip>
+using namespace std;
+#include "strings and characters manipulation.hpp"
 
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    char * str1 = "How do you do";
+    char * first = "What a beautiful world it is";
+    char * second = "world it";
+    int value = firstIndexWherePatternMatches("Hello hao haou thaoau", "aou");
     
-    unsigned count = 0;
-    while (*(str1 +count) != '\0') {
-        count += 1;
-    }
+    cout << value << endl;
     
-    cout << "String count: " << count << endl;
-
-        
     return 0;
 }
