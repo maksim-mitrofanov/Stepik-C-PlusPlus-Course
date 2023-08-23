@@ -7,17 +7,16 @@
 
 #include <iostream>
 #include <iomanip>
-#include "contains value.hpp"
+#include "maximum value in array.hpp"
+
 using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    int array[] = {1, 2, 3, 4, 5, 6};
-    int * startPointer = &array[0];
-    int * endPointer = &array[7];
-    bool result = containsValue(startPointer, endPointer, 4);
+    int array[] = {10, 20, 3, 42, 5, 6};
+    int result = maximumValueIn(&array[0], &array[6]);
     
-    cout << boolalpha << result << endl;
+    cout << result << endl;
     
     return 0;
 }

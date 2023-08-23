@@ -11,6 +11,7 @@
 		4C0FB65A2A90CA64003E6827 /* removing extra whitespaces.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C0FB6582A90CA64003E6827 /* removing extra whitespaces.cpp */; };
 		4C0FB65E2A90CAE7003E6827 /* base 2 log.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C0FB65C2A90CAE7003E6827 /* base 2 log.cpp */; };
 		4C868F762A964FB50041E4EE /* contains value.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C868F742A964FB50041E4EE /* contains value.cpp */; };
+		4C868F7A2A96539F0041E4EE /* maximum value in array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C868F782A96539F0041E4EE /* maximum value in array.cpp */; };
 		4CB67DCB2A94F7480027F71E /* move array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB67DC92A94F7480027F71E /* move array.cpp */; };
 		4CB902932A8FDB38009A8409 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902922A8FDB38009A8409 /* main.cpp */; };
 		4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB902992A8FE0D7009A8409 /* check-func.cpp */; };
@@ -40,6 +41,8 @@
 		4C0FB65D2A90CAE7003E6827 /* base 2 log.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "base 2 log.hpp"; sourceTree = "<group>"; };
 		4C868F742A964FB50041E4EE /* contains value.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "contains value.cpp"; sourceTree = "<group>"; };
 		4C868F752A964FB50041E4EE /* contains value.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "contains value.hpp"; sourceTree = "<group>"; };
+		4C868F782A96539F0041E4EE /* maximum value in array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "maximum value in array.cpp"; sourceTree = "<group>"; };
+		4C868F792A96539F0041E4EE /* maximum value in array.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "maximum value in array.hpp"; sourceTree = "<group>"; };
 		4CB67DC92A94F7480027F71E /* move array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "move array.cpp"; sourceTree = "<group>"; };
 		4CB67DCA2A94F7480027F71E /* move array.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "move array.hpp"; sourceTree = "<group>"; };
 		4CB9028F2A8FDB38009A8409 /* Stepik-C-PlusPlus-Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Stepik-C-PlusPlus-Course"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -101,6 +104,15 @@
 			path = "Contains Value";
 			sourceTree = "<group>";
 		};
+		4C868F772A96538D0041E4EE /* Maximum Value in Array */ = {
+			isa = PBXGroup;
+			children = (
+				4C868F782A96539F0041E4EE /* maximum value in array.cpp */,
+				4C868F792A96539F0041E4EE /* maximum value in array.hpp */,
+			);
+			path = "Maximum Value in Array";
+			sourceTree = "<group>";
+		};
 		4CB67DC82A94F7350027F71E /* Move Array Elements */ = {
 			isa = PBXGroup;
 			children = (
@@ -130,6 +142,7 @@
 			isa = PBXGroup;
 			children = (
 				4CB902922A8FDB38009A8409 /* main.cpp */,
+				4C868F772A96538D0041E4EE /* Maximum Value in Array */,
 				4C868F732A964FA70041E4EE /* Contains Value */,
 				4CB67DC82A94F7350027F71E /* Move Array Elements */,
 				4CF831A02A93A8AB00D6D8CB /* Swap */,
@@ -238,6 +251,7 @@
 			files = (
 				4CB67DCB2A94F7480027F71E /* move array.cpp in Sources */,
 				4C0FB65A2A90CA64003E6827 /* removing extra whitespaces.cpp in Sources */,
+				4C868F7A2A96539F0041E4EE /* maximum value in array.cpp in Sources */,
 				4C0FB6522A90B8C9003E6827 /* real root calculation.cpp in Sources */,
 				4CF831912A90E6BC00D6D8CB /* greatest common divisor.cpp in Sources */,
 				4CB9029B2A8FE0D7009A8409 /* check-func.cpp in Sources */,
