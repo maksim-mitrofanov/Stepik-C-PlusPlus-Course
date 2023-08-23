@@ -6,21 +6,18 @@
 //
 
 #include <iostream>
-#include "swap arguments.hpp"
+#include <iomanip>
+#include "contains value.hpp"
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int value1 = 30;
-    int value2 = 100;
     
-    std::cout << "Current values: ";
-    std::cout << "a: " << value1;
-    std::cout << " b: " << value2 << std::endl;
+    int array[] = {1, 2, 3, 4, 5, 6};
+    int * startPointer = &array[0];
+    int * endPointer = &array[7];
+    bool result = containsValue(startPointer, endPointer, 4);
     
-    swapArguments(&value1, &value2);
-    
-    std::cout << "After swap: ";
-    std::cout << "a: " << value1;
-    std::cout << " b: " << value2 << std::endl;
+    cout << boolalpha << result << endl;
     
     return 0;
 }
