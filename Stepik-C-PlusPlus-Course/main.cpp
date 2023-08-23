@@ -7,16 +7,16 @@
 
 #include <iostream>
 #include <iomanip>
-#include "maximum value in array.hpp"
+#include "maximum value in array pointer.hpp"
 
 using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    int array[] = {10, 20, 3, 42, 5, 6};
-    int result = maximumValueIn(&array[0], &array[6]);
+    int array[] = {10, 20, 319, 42, 5, 6};
+    int * resultPointer = maximumValuePointer(&array[0], &array[6]);
     
-    cout << result << endl;
+    cout << *resultPointer << endl;
     
     return 0;
 }
