@@ -1,0 +1,55 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8eb8e6adff288cf813fc84d18dd85f4eee3ff46871c00099cbcf3246ba52555f"
+    }
+  ],
+  "containerPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/Stepik-C-PlusPlus-Course.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/DerivedData/Stepik-C-PlusPlus-Course/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/DerivedData/Stepik-C-PlusPlus-Course/Build/Products",
+      "derivedDataPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/DerivedData/Stepik-C-PlusPlus-Course/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/DerivedData/Stepik-C-PlusPlus-Course/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/maksimmitrofanov/Developer/Stepik-C-PlusPlus-Course/DerivedData/Stepik-C-PlusPlus-Course/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
