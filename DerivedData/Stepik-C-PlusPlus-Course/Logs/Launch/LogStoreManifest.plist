@@ -51,6 +51,51 @@
 			<key>uniqueIdentifier</key>
 			<string>001CE37D-5076-413A-9BFD-D54611E583F0</string>
 		</dict>
+		<key>03954949-C806-4171-A7E9-635439C836B8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F8825A12-B8AB-4A99-9561-78D68763AF39</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-58-19-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941899.055439</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>03954949-C806-4171-A7E9-635439C836B8</string>
+		</dict>
 		<key>052E7816-EBAF-4931-94EB-5F1CBDA13AA5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -140,6 +185,51 @@
 			<string>Run Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>0584DFC4-9CD5-4A73-B880-6EBFEF6813EE</string>
+		</dict>
+		<key>07382D32-DC58-405A-9003-C20FC4FDA676</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>12E10845-5128-4815-9C33-4CFED4C6CD4D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_23-00-27-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714942027.96336699</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>07382D32-DC58-405A-9003-C20FC4FDA676</string>
 		</dict>
 		<key>07F8C6BF-A009-44ED-BBF9-DBE2C9B2093B</key>
 		<dict>
@@ -456,6 +546,51 @@
 			<key>uniqueIdentifier</key>
 			<string>1E3E2368-6341-463D-8F04-F20F2DF85117</string>
 		</dict>
+		<key>1EFD7CDC-607D-4B71-9EBB-59A12998D49A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>590FCA5B-D43F-4BE4-8AA7-E154831876AA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-56-53-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941813.77951896</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>1EFD7CDC-607D-4B71-9EBB-59A12998D49A</string>
+		</dict>
 		<key>1F639ED1-8086-4BF5-AB23-03AF07EA2F92</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -546,6 +681,96 @@
 			<key>uniqueIdentifier</key>
 			<string>272656DA-996E-47A4-AEF3-A100AA1BF247</string>
 		</dict>
+		<key>2BA3FAAF-023A-4732-B302-CCDBB598F6A3</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6405650E-DB25-4EAF-AC27-CF7BEF94AFE8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-54-59-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941699.01821899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>2BA3FAAF-023A-4732-B302-CCDBB598F6A3</string>
+		</dict>
+		<key>2C19B584-808D-4FBA-8A7A-15152219B7C2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2340AD17-DAE0-4B5B-907F-4D677E7C437D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-55-37-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941737.18050897</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>2C19B584-808D-4FBA-8A7A-15152219B7C2</string>
+		</dict>
 		<key>2DAB2EE0-B50C-4EB2-A2F5-68DB443CD865</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -590,6 +815,51 @@
 			<string>Run Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>2DAB2EE0-B50C-4EB2-A2F5-68DB443CD865</string>
+		</dict>
+		<key>3780E316-F7F3-4CAA-BBD1-FD5AFF0A7C62</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3C30EE4B-0AF4-491F-9A4C-5D38176F86BC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-57-10-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941830.81043899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>3780E316-F7F3-4CAA-BBD1-FD5AFF0A7C62</string>
 		</dict>
 		<key>37EFA6F0-5E17-4A12-8F10-AC7A376AD6F1</key>
 		<dict>
@@ -816,6 +1086,51 @@
 			<key>uniqueIdentifier</key>
 			<string>44A4F628-673E-48EF-9C38-58B6377CE170</string>
 		</dict>
+		<key>467B9B35-70AF-4502-9EFF-9105A2B1469E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B6CD7646-6626-410A-B586-781C1949F41D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-58-06-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941886.29510796</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>467B9B35-70AF-4502-9EFF-9105A2B1469E</string>
+		</dict>
 		<key>48761CB5-EF30-41AE-9723-018575E7DFCA</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1041,6 +1356,51 @@
 			<key>uniqueIdentifier</key>
 			<string>544BB687-CEB9-4D87-8B06-C5DA81119451</string>
 		</dict>
+		<key>59EA15AA-0268-4052-8EC3-F83C3C221657</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E9D7CF74-698E-4CD3-BC11-D355E5EAF2A5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-59-25-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941965.05007696</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>59EA15AA-0268-4052-8EC3-F83C3C221657</string>
+		</dict>
 		<key>5AA8704B-E50A-46B5-890C-2664B7923C1C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1085,6 +1445,51 @@
 			<string>Run Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>5AA8704B-E50A-46B5-890C-2664B7923C1C</string>
+		</dict>
+		<key>5E466C40-06DE-40E9-9FFC-CE1B1EC98C20</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2A8539BB-910A-4D6F-8228-3F3521F688B7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-56-37-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941797.51669502</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>5E466C40-06DE-40E9-9FFC-CE1B1EC98C20</string>
 		</dict>
 		<key>5FEC8654-82A1-476B-9A6B-820338405225</key>
 		<dict>
@@ -2121,6 +2526,96 @@
 			<key>uniqueIdentifier</key>
 			<string>9E23C95B-D2CE-44B4-9DAA-386CD720D077</string>
 		</dict>
+		<key>9ED5B139-9D20-4802-A46C-9FD4DA690479</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>044BB906-E845-4577-A158-88B8E15400D7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-59-37-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941977.20462</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>9ED5B139-9D20-4802-A46C-9FD4DA690479</string>
+		</dict>
+		<key>9F36A4B7-24DB-496C-8DE8-77128EC312F9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>00149F9D-A8A9-458D-83D7-15573EE7DFB8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_23-03-13-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714942193.57658994</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>9F36A4B7-24DB-496C-8DE8-77128EC312F9</string>
+		</dict>
 		<key>A14FC02E-25E5-4EE2-9B73-1BF23F911525</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2346,6 +2841,51 @@
 			<key>uniqueIdentifier</key>
 			<string>AAD8E4FD-21CE-469B-8C34-EF204C0CF13A</string>
 		</dict>
+		<key>AB2DB4DE-8808-43CC-8FDC-AF7E5A069EE6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F35A160C-A29E-46A8-A711-AE3EB2FA7D76</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_23-01-38-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714942098.31553805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>AB2DB4DE-8808-43CC-8FDC-AF7E5A069EE6</string>
+		</dict>
 		<key>ABFBBBEF-17C1-481F-84D3-D506EF5ACFE9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2435,6 +2975,231 @@
 			<string>Run Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>AF7A4D48-FC59-4115-862C-27B98D0EB142</string>
+		</dict>
+		<key>B3E46A5F-97BF-4D12-B300-62A2A0E461C4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0604F923-CF17-43BE-9F33-5403D83184D4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-55-58-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941758.99616599</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>B3E46A5F-97BF-4D12-B300-62A2A0E461C4</string>
+		</dict>
+		<key>B56DE81E-BC6C-4F22-A764-B68DB8E511FF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>081538AA-BA80-4C91-83B5-4F3736791648</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_23-00-43-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714942043.60104406</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>B56DE81E-BC6C-4F22-A764-B68DB8E511FF</string>
+		</dict>
+		<key>B7C90C9D-DFC6-455C-8A4B-AA531DB8A665</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8B748E7F-60D5-4189-AE6D-8F1C182BE243</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-58-26-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941906.65996695</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>B7C90C9D-DFC6-455C-8A4B-AA531DB8A665</string>
+		</dict>
+		<key>BCBF060A-A5A4-48B5-A0C4-F6EC3F787387</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2CA1FBFD-E7D1-41EE-ACF4-9E686C15EB9D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-59-44-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941984.72175002</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>BCBF060A-A5A4-48B5-A0C4-F6EC3F787387</string>
+		</dict>
+		<key>BCD92DBD-D873-43FD-82ED-7ED618E04A78</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9F1591C1-DB4C-4CAC-80BA-05054F638D95</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-53-56-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941636.83329403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>BCD92DBD-D873-43FD-82ED-7ED618E04A78</string>
 		</dict>
 		<key>C00DD948-DD3C-45B2-A695-9FFF3DE940FB</key>
 		<dict>
@@ -2616,6 +3381,51 @@
 			<key>uniqueIdentifier</key>
 			<string>D202135A-873F-46C6-93A9-39694E5E3176</string>
 		</dict>
+		<key>D238B854-66BC-4D18-932C-94E871C9BDE5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E6AE844A-9CB2-408A-B0FC-961C1993B50C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-58-45-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941925.04905498</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>D238B854-66BC-4D18-932C-94E871C9BDE5</string>
+		</dict>
 		<key>DAEEB957-139E-4E68-878A-88C7F35B1C5D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2750,6 +3560,96 @@
 			<string>Run Stepik-C-PlusPlus-Course</string>
 			<key>uniqueIdentifier</key>
 			<string>E2259658-3D4C-4D31-9563-BE8C73FE1CC5</string>
+		</dict>
+		<key>E3175875-7137-477E-A3E4-72D448C07BFE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A1BC060C-B6F9-43AB-BABB-955A4D0E310D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_23-01-28-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714942088.21421397</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>E3175875-7137-477E-A3E4-72D448C07BFE</string>
+		</dict>
+		<key>E3F9DB95-2AB4-48EC-9B73-CABAFD8FC41C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>52AA0A03-1E1B-4BB1-B43E-219B7C176426</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Stepik-C-PlusPlus-Course-2023.08.28_22-55-09-+0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stepik-C-PlusPlus-Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stepik-C-PlusPlus-Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>timeStartedRecording</key>
+			<real>714941709.45670998</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Stepik-C-PlusPlus-Course</string>
+			<key>uniqueIdentifier</key>
+			<string>E3F9DB95-2AB4-48EC-9B73-CABAFD8FC41C</string>
 		</dict>
 		<key>E43A94AA-3C00-4BC5-AAD1-72EE9106875F</key>
 		<dict>
