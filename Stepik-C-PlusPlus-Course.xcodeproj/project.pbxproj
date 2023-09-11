@@ -450,6 +450,7 @@
 		4CB902972A8FDB38009A8409 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++98";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Q3P95MDH6Q;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -460,6 +461,7 @@
 		4CB902982A8FDB38009A8409 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++98";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Q3P95MDH6Q;
 				ENABLE_HARDENED_RUNTIME = YES;

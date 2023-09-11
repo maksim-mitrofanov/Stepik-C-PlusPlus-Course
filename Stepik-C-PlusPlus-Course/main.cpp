@@ -5,58 +5,74 @@
 //  Created by Максим Митрофанов on 18.08.2023.
 //
 
-#include <iostream>
-using namespace::std;
+#include <iostream> // output
+#include <cstddef> // size_t
+#include <cstring> // strlen, strcpy
+using namespace std;
 
-template<std::size_t ColumnCount, std::size_t RowCount >
-void printMatrix(int (&matrix)[ColumnCount][RowCount], unsigned rows, unsigned cols) {
-    for (size_t rowIndex = 0; rowIndex < rows; ++rowIndex) {
-        for (size_t columnIndex = 0; columnIndex < cols; ++columnIndex) {
-            cout << matrix[rowIndex][columnIndex] << " ";
-        }
-        cout << endl;
+struct String {
+    String(const char *str = "");
+    String(size_t n, char c);
+    ~String();
+    
+    
+    /* Реализуйте этот метод. */
+    void append(String &other);
+    
+    size_t size;
+    char *str;
+};
+
+String::String(const char *str) {
+    size_t stringLength = strlen(str);
+    this->size = stringLength;
+    
+    // Allocate dynamic memory to store passed string
+    char* storage = new char [size+1];
+    
+    // Store string in dynamic memory
+    for (int i = 0; i <= size; ++i) {
+        storage[i] = str[i];
     }
-    cout << endl;
+    
+    this->str = storage;
+}
+
+String::~String() {
+    delete [] str;
+    size = 0;
 }
 
 
-template<std::size_t ColumnCount, std::size_t RowCount >
-int ** transposeCustomMatrix(int (&matrix)[ColumnCount][RowCount], unsigned rows, unsigned cols) {
-    int ** transposedMatrix = new int* [cols];
+void String::append(String &other) {
+    size_t totalStringSize = size + other.size + 1;
+    char* storage = new char [totalStringSize];
     
-    for (int rowIndex = 0; rowIndex < cols; ++rowIndex) {
-        transposedMatrix[rowIndex] = new int [rows];
+    for (size_t i = 0; i < size; ++i) {
+        storage[i] = str[i];
     }
     
-    for (size_t rowIndex = 0; rowIndex < cols; ++rowIndex) {
-        for (size_t columnIndex = 0; columnIndex < rows; ++columnIndex) {
-            transposedMatrix[rowIndex][columnIndex] = matrix[columnIndex][rowIndex];
-        }
+    for(size_t i = 0; i < other.size; ++i) {
+        storage[size + i] = other.str[i];
     }
+            
+    size = totalStringSize;
+    storage[totalStringSize-1] = '\0';
     
-    for (size_t rowIndex = 0; rowIndex < cols; ++rowIndex) {
-        for (size_t columnIndex = 0; columnIndex < rows; ++columnIndex) {
-            cout << transposedMatrix[rowIndex][columnIndex] << " ";
-        }
-        cout << endl;
-    }
-    cout << endl;
-    
-    return transposedMatrix;
+    delete [] str;
+    str = storage;
 }
-
 
 int main(int argc, const char * argv[]) {
-    int rowsCount = 5;
-    int columnsCount = 3;
-    int originalMatrix[5][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}, {11, 12, 13}, {21, 22, 23}};
+    String s1("Hello, beautiful");
+    String s2(" world!");
     
-    cout << "Original matrix:" << endl;
-    printMatrix(originalMatrix, rowsCount, columnsCount);
+    s2.append(s2); // теперь s1 хранит "Hello, world!"
     
-    
-    cout << "Transposed matrix:" << endl;
-    transposeCustomMatrix(originalMatrix, rowsCount, columnsCount);
-    
+    for (size_t i = 0; i < s1.size; ++i) {
+        char value = s2.str[i];
+        cout << value;
+    }
+    cout << endl;
     return 0;
 }
